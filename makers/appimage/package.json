@@ -23,6 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "@electron-forge/maker-base": "^6.0.0 || ^7.0.0",
+    "@reforged/shared": "workspace:*",
     "@spacingbat3/lss": "^1.0.0",
     "semver": "^7.3.8"
   },
