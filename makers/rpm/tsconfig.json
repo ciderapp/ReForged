@@ -1,7 +1,7 @@
 {
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "tsBuildInfoFile": "../../cache/tsc/shared.json",
+    "tsBuildInfoFile": "../../cache/tsc/maker-rpm.json",
     "outDir": "./dist",
     "rootDir": "./src",
     "declarationDir": "./types",

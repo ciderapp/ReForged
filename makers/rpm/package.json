@@ -1,0 +1,16 @@
+{
+  "name": "@reforged/maker-rpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepack": "tsc"
+  },
+  "types": "./types/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
